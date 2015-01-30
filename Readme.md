@@ -2,6 +2,8 @@
 
 ###  Setup
 
-### iOS
+##### iOS
 Add to Xcode->Preferences->Locations->Source Tree
+```
 MOAI_SDK = { path to you moai dev }
+```
