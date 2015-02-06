@@ -6,22 +6,30 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>037E6B2B-BC7D-4EAC-A515-D9CFB0D308CE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleiOSProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>04B57CAD5AF70CD370BB3FDD3070F05A077BCC2D</key>
+		<string>github.com:RazielSun/SampleMoaiProject.git</string>
 		<key>63C4897045D0EF88507AD257AEF500CB53038CE0</key>
 		<string>git.cloudteam.pro:moai/moai.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>hosts/ios/SampleiOSProject.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>04B57CAD5AF70CD370BB3FDD3070F05A077BCC2D</key>
+		<string>../../../..</string>
 		<key>63C4897045D0EF88507AD257AEF500CB53038CE0</key>
-		<string>moai/</string>
+		<string>../../../../../moai</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>git.cloudteam.pro:moai/moai.git</string>
+	<string>github.com:RazielSun/SampleMoaiProject.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>63C4897045D0EF88507AD257AEF500CB53038CE0</string>
+	<string>04B57CAD5AF70CD370BB3FDD3070F05A077BCC2D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -31,6 +39,14 @@
 			<string>63C4897045D0EF88507AD257AEF500CB53038CE0</string>
 			<key>IDESourceControlWCCName</key>
 			<string>moai</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04B57CAD5AF70CD370BB3FDD3070F05A077BCC2D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SampleMoaiProject</string>
 		</dict>
 	</array>
 </dict>
