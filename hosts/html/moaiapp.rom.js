@@ -118,7 +118,7 @@ function assert(check, msg) {
     var PACKAGE_PATH = window['encodeURIComponent'](window.location.pathname.toString().substring(0, window.location.pathname.toString().lastIndexOf('/')) + '/');
     var PACKAGE_NAME = 'moaiapp.rom';
     var REMOTE_PACKAGE_NAME = 'moaiapp.rom';
-    var PACKAGE_UUID = 'ccfb9454-7041-453e-8b2f-1a2e2f7dec71';
+    var PACKAGE_UUID = 'd9a266d4-97b8-466c-8970-de3ecbe08c1c';
   
     function processPackageData(arrayBuffer) {
       Module.finishedDataFileDownloads++;

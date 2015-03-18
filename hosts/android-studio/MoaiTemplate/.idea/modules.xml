@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MoaiTemplate.iml" filepath="$PROJECT_DIR$/MoaiTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/modules/external/moai-android-facebook/project/moaiexternal_moai-android-facebook.iml" filepath="$PROJECT_DIR$/lib/modules/external/moai-android-facebook/project/moaiexternal_moai-android-facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/modules/external/moai-android-google-play-services-games/project/moaiexternal_moai-android-google-play-services-games.iml" filepath="$PROJECT_DIR$/lib/modules/external/moai-android-google-play-services-games/project/moaiexternal_moai-android-google-play-services-games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+    </modules>
+  </component>
+</project>
+

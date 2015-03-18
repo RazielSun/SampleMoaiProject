@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rsun/Documents/Developer/Moai/Projects/SampleMoaiProject/hosts/android-studio/MoaiTemplate/lib/modules/external/moai-android-google-play-services-games/project/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/rsun/Documents/Developer/Moai/Projects/SampleMoaiProject/hosts/android-studio/MoaiTemplate/lib/modules/external/moai-android-google-play-services-games/project/src/debug/assets"/></dataSet></merger>
